@@ -376,13 +376,30 @@ p {
 
 /* Footer */
 
-.footer_di-buffala {
+#footer_di-buffala {
   background-color: #141414;
   padding: 5vw 1rem;
   text-align: center;
 }
 
-.footer_di-buffala small {
+#footer_di-buffala small {
   color: hsla(0, 100%, 100%, 0.52);
   font-size: 1em;
+  background: #000f08;
+  color: #ffffff;
+  /*width: 70px;
+  height: 70px;* no no era el css great*/
+}
+
+footer i {
+  margin: 0 0.25em 0.5em 0.25em; /* el tamaño de los íconos de twi, git e linkedin*/
+}
+
+section, footer {
+  margin-top: 4.5rem; /*para la letras*/
+}
+
+footer {
+  padding: 3.125rem;
+  padding: 50px;
 }
