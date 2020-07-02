@@ -376,15 +376,19 @@ p {
 
 /* Footer */
 
-.footer_di-buffala {
+#footer_di-buffala {
   background-color: #141414;
   padding: 5vw 1rem;
   text-align: center;
 }
 
-.footer_di-buffala small {
+#footer_di-buffala small {
   color: hsla(0, 100%, 100%, 0.52);
   font-size: 1em;
+  background: #000f08;
+  color: #ffffff;
+  /*width: 70px;
+  height: 70px;* no no era el css great*/
 }
 
 footer i {
