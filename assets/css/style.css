@@ -11,7 +11,7 @@ p, li, a, small {
 /* Font hierarchy */
 
 h1 {
- font-size: 3em;
+ font-size: 4em;
 }
 
 h2 {
@@ -19,7 +19,7 @@ h2 {
 }
 
 h3 {
-  font-size: 1.75em;
+  font-size: 2em;
 }
 
 p {
@@ -48,7 +48,7 @@ p {
   background-color: #325DFF;
   border-radius: 30px;
   padding: 2rem 6rem;
-  color: #fff;
+  color: #fff000;
   text-transform: uppercase;
   text-decoration: none;
 }
@@ -61,7 +61,7 @@ p {
 /* Navbar */
 
 .navbar_di-buffala {
-  background-color: #141414;
+  background-color: #920707;
   color: hsla(0, 100%, 100%, 0.52);
 }
 .icon-bar {
@@ -73,7 +73,7 @@ p {
 }
 
 .navbar-nav > li > a{
-  color: #fff;
+  color: #fff000;
   text-shadow: none;
   text-transform: uppercase;
 }
@@ -383,6 +383,6 @@ p {
 }
 
 .footer_di-buffala small {
-  color: hsla(0, 100%, 100%, 0.52);
+  color: #920707;
   font-size: 1em;
 }
